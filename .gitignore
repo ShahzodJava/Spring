@@ -45,3 +45,6 @@ cashcard/gradlew.bat
 cashcard/settings.gradle
 
 
+!spring-security/src/*
+
+
